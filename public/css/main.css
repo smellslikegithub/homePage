@@ -44,3 +44,8 @@
 #jumbotronTextFooter, #jumbotronTextHeader{
     color: #FFFFFF;
 }
+#jumbotronDescImageRibbon{
+    width: auto;
+    height: 50px;
+    padding: 0;
+}
