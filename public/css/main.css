@@ -1,0 +1,17 @@
+#brandLogo{
+    font-family: fantasy;
+}
+
+#footNote>span{
+    font-family: 'Dancing Script', cursive;;
+}
+#footNote{
+    font-family: cursive;
+}
+
+#footerContents{
+    font-size: 1.25em; 
+}
+#footer{
+    background: #F8F8F8;
+}
