@@ -15,3 +15,29 @@
 #footer{
     background: #F8F8F8;
 }
+
+.navbar-default {
+    background-color: #2C3E50;
+    border-color: #E7E7E7;
+}
+
+
+#navigatorButtons>li>a{
+    color: #E7E7E7;
+}
+
+#jumbotronBanner{
+    background: #18BC9C;
+}
+
+#jumbotronMeat{
+    background: rgb(188, 98, 24);
+    float: none;
+    margin: 0 auto; 
+    
+}
+#jumbotronImage, #jumbotronDescHeader, #jumbotronDescImage,#jumbotronDescFooter{
+    display: flex;
+    flex-flow: row wrap; 
+    justify-content: center;
+}
