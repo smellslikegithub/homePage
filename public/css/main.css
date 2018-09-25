@@ -36,7 +36,7 @@
     margin: 0 auto; 
     
 }
-#jumbotronImage, #jumbotronDescHeader, #jumbotronDescImage,#jumbotronDescFooter{
+#jumbotronImage, #jumbotronDescHeader,#jumbotronDescFooter,#jumbotronDescImage,#footerContainerRow2{
     display: flex;
     flex-flow: row wrap; 
     justify-content: center;
@@ -48,4 +48,31 @@
     width: auto;
     height: 50px;
     padding: 0;
+}
+
+#footer{
+    padding-top: 20px;
+    position: relative;
+    bottom: 0;
+    border-top: 1px solid #2C3E50;
+}
+.footerText{
+    color: #dddbdb;
+    
+}
+
+#footerHeader{
+    text-decoration: underline;
+}
+#footerContainerRow1{
+    margin-bottom: 20px;
+}
+.socialIcons{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+.socialIcons:hover{
+     opacity: 0.5;
+     
 }
